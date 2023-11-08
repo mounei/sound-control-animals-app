@@ -1,0 +1,54 @@
+body{
+    
+background-color:lavenderblush;
+    font-family: 'Bebas Neue', sans-serif;
+    font-family: 'Great Vibes', cursive;
+    font-family: 'Kanit', sans-serif;
+
+background-size: cover;
+}
+.header_div{
+    background:lightpink;
+    color: yellow;
+}
+.header_div p{
+    font-family: 'Bebas Neue', sans-serif;
+font-family: 'Great Vibes', cursive;
+font-family: 'Kanit', sans-serif;
+    letter-spacing: 2px;
+    font-size: 15px;
+    font-weight: bold;
+}
+.main_div button{
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    margin-top: 35px;
+    width: 130px;
+    font-weight: bolder;
+    letter-spacing: 5px;
+    font-size: larger;
+}
+.copy_right_footer{
+    position: fixed;
+    color: yellow;
+    background-color: lightpink;
+    bottom: 0;
+    width: 100%;
+    font-size: 35px;
+    line-height: 2;
+    text-align: center;
+    text-shadow: 10px 10px 10px black;
+}
+#result_label {
+background-color: lightpink;
+color: yellow;
+font-size: 30px;
+font-weight: bold;
+width: fit-content;
+}
+#result_confidence {
+    background-color: lightpink;
+    color: yellow;
+    font-size: 30px;
+    font-weight: bold;
+    width: fit-content;
+    }
